@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh-piplodiya&label=Profile%20views&color=0e75b6&style=flat" alt="harsh-piplodiya" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsh-piplodiya" alt="harsh-piplodiya" /></a> </p>
+- 🌱 I’m currently learning **Full-Stack Development.**
 
-- 🌱 I’m currently learning **MERN stack**
+- 👯 I’m looking to collaborate on **Web-Dev Projects**
 
-- 💬 Ask me about **JavaScript, React, Node, Express and Motion-Picture**
+- 💬 Ask me about **JavaScript, React, Node, Express and Motion-Picture.**
 
 - 📫 How to reach me **harshpiplodiya29@gmail.com**
 
-- ⚡ Fun fact **My name might be Harsh but I'm not that Harsh.**
+- ⚡ Fun fact **My name might be Harsh but I'm not that HARSH.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,4 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harsh-piplodiya&show_icons=true&locale=en" alt="harsh-piplodiya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-piplodiya&" alt="harsh-piplodiya" /></p>
-
